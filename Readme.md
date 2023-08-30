@@ -6,7 +6,7 @@ Last Update : <!-- Last updated: Moscow Timestamp -->
 
 ## Automatic Updates
 
-The proxy information in this hub is automatically refreshed every 30 minutes. This ensures that you're always connected to the latest proxy data.
+The proxy information in this hub is automatically refreshed every 20 minutes. This ensures that you're always connected to the latest proxy data.
    
 ## Legal and Ethical Awareness
 
